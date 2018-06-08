@@ -1,0 +1,21 @@
+header {
+  background-color: lightblue;
+}
+main {
+  background-color: lightyellow;
+}
+footer {
+  background-color: lightgreen;
+}
+.card{
+  position: relative;
+}
+img{
+  position: absolute;
+  left: -1.61%;
+  right: -1.61%;
+  top: 0%;
+  bottom: 30.05%;
+  width: 317.94px;
+  height: 256px;
+}
